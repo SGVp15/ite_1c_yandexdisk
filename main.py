@@ -69,11 +69,7 @@ def main(urls, inc=5):
 if __name__ == '__main__':
     count_url=5
 
-    urls = '''https://disk.yandex.ru/d/PASmckl1qMgE2w
-https://disk.yandex.ru/d/FJxKv-m1iYJL8w
-https://disk.yandex.ru/d/DNMTII-igKRePQ
-https://disk.yandex.ru/d/TqCNAqGGn99bVQ
-https://disk.yandex.ru/d/bL_T2J27P7AsQA'''
+    urls = ''''''
 
 
     urls = urls.split('\n')
